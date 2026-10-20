@@ -1,0 +1,22 @@
+{
+  "name": "opencode-free-model-watch",
+  "version": "0.1.0",
+  "description": "OpenCode TUI plugin that tells you when a model becomes free",
+  "type": "module",
+  "exports": {
+    "./tui": "./tui.tsx"
+  },
+  "files": ["logic.ts", "tui.tsx"],
+  "scripts": {
+    "test": "bun test"
+  },
+  "peerDependencies": {
+    "@opencode/plugin": "^2.0.28"
+  },
+  "devDependencies": {
+    "@opencode/plugin": "2.0.28",
+    "@types/bun": "^1.4.2",
+    "typescript": "^7.0.2"
+  },
+  "license": "MIT"
+}
