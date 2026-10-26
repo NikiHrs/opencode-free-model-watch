@@ -39,6 +39,12 @@ bun test
 bunx tsc --noEmit
 ```
 
+
+## Example
+
+<img width="786" height="307" alt="Screenshot from 2026-10-26 09-51-46" src="https://github.com/user-attachments/assets/0e4006a7-abcb-4a4f-9fdd-806d1f3bba96" />
+
+
 ## License
 
 [MIT](LICENSE)
